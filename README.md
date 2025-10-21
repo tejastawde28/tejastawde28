@@ -1,6 +1,6 @@
 # 👋🏻 Hi! I'm Tejas
 ### A Software Developer, currently pursuing MS in Software Engineering from Northeastern University
-🌱 I’m currently learning: Cloud Computing, Enterprise Software Design<br>💬 Ask me about: Flask, Python, Flutter, Dart, Java, Music<br>⚡ Fun fact: I do sing as a hobby!
+🌱 I’m currently learning: Program Structures and Algorithms, Cloud Computing<br>💬 Ask me about: Flask, Python, Flutter, Dart, Java, Spring Boot, Music<br>⚡ Fun fact: I do sing as a hobby!
 
 
 ## 🌐 Socials:
